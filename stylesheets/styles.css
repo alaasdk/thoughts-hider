@@ -595,6 +595,14 @@ code {
   -ms-border-radius: 2px;
   -khtml-border-radius: 2px;
   border-radius: 2px;
+  
+  display:inline-block; 
+  height: 19px;
+  overflow:hidden;
+  padding-left:10px;
+  width:0px;
+  cursor:pointer;
+  transition: all 0.5s ease;
 }
 
 pre {
